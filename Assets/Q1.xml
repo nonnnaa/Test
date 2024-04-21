@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>Lễ hội nào ở Tây Ninh thu hút đông đảo du khách thập phương mỗi năm?</Info>
+      <Answers>
+        <Answer>
+          <Info>Lễ hội hoa sen Đồng Tháp</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Lễ hội Núi Bà Đen</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+	<Question>
+      <Info>Món ăn nào là đặc sản nổi tiếng của Tây Ninh mà du khách không nên bỏ qua khi đến đây?</Info>
+      <Answers>
+        <Answer>
+          <Info>Bánh tráng Trảng Bàng</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Bánh canh Trảng Bàng</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Bánh tráng phơi sương</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Bún mắm</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Single</Type>
+      <AddScore>100</AddScore>
+    </Question>
+  </Questions>
+</Data>
